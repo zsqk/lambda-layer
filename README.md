@@ -2,6 +2,8 @@
 
 AWS Lambda layer for Node.js.
 
+run `npm run-script build`.
+
 功能:
 
 - 安装依赖
