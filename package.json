@@ -1,6 +1,6 @@
 {
   "name": "lambda-layer",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "基础依赖.",
   "main": "index.js",
   "scripts": {
@@ -22,6 +22,7 @@
   "homepage": "https://github.com/zsqk/lambda-layer#readme",
   "dependencies": {
     "aws-sdk": "^2.454.0",
+    "axios": "^0.18.0",
     "jsonwebtoken": "^8.5.1",
     "lodash": "^4.17.11"
   }
