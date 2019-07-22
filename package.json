@@ -1,6 +1,6 @@
 {
   "name": "lambda-layer",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "description": "基础依赖.",
   "main": "index.js",
   "scripts": {
