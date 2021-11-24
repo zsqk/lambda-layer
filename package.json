@@ -22,7 +22,7 @@
   "homepage": "https://github.com/zsqk/lambda-layer#readme",
   "dependencies": {
     "aws-sdk": "^2.814.0",
-    "axios": "^0.21.1",
+    "axios": "^0.21.2",
     "jsonwebtoken": "^8.5.1",
     "lodash": "^4.17.21",
     "moment": "^2.24.0"
